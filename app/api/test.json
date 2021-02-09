@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "module": "core",
+  "action": "setvalue",
+  "options": {
+    "value": "good"
+  },
+  "output": true
+}
